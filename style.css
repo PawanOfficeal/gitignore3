@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: steelblue;
+}
+.logoImg{
+    position: absolute;
+    width: 15vw;
+    height: 40%;
+    margin-left:85vw;
+}
+.container{
+    width: 100vw;
+    position: relative;
+}
+.header{
+    width: 100vw;
+    height: 20rem;
+    background-color: rgb(140, 153, 197);
+}
+.main{
+    width: 100vw;
+}
+.mainSection{
+    width: 100vw;
+    height: 40rem;
+    background-color: slategray;
+    color:white;
+}
